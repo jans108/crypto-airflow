@@ -1,3 +1,4 @@
 # credentials
 .env
 /config/airflow.cfg
+/logs
