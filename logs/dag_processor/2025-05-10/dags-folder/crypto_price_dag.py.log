@@ -450,3 +450,5 @@
 {"timestamp":"2025-05-10T20:48:44.305138","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/crypto_price_dag.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-05-10T20:49:14.813720","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/crypto_price_dag.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-05-10T20:49:45.295948","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/crypto_price_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:50:15.813046","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/crypto_price_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:50:38.271249","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/crypto_price_dag.py","logger":"airflow.models.dagbag.DagBag"}
